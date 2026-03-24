@@ -1,0 +1,33 @@
+# Security & Environment Variables
+.env
+.env.local
+.env.development
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python Compilation Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Temporary Files
+*.log
+*.sqlite3
+
+# IDEs & OS Settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project-specific
+repos/
